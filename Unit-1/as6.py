@@ -2,11 +2,6 @@ print('\n=======================================================================
 print('6. Write a program to illustrate the use of tuples and sets with basic operations.')
 print('===========================================================================================')
 
-'''
-6. Write a program to illustrate the use of tuples 
-and sets with basic operations. 
-'''
-
 print("=============== Tuple Example ===============")
 
 tuple = (10, 20, 30, 40, 50 ,100, 80,)
